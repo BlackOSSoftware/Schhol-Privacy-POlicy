@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'School App Privacy Policy',
-  description: 'Privacy Policy page for the School App platform.',
+  title: 'MMPS School App Web Pages',
+  description: 'Privacy Policy and Account Deletion Request pages for the MMPS School App.',
 };
 
 export default function RootLayout({ children }) {

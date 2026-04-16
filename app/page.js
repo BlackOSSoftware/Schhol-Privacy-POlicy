@@ -114,6 +114,11 @@ export default function PrivacyPolicyPage() {
           app&apos;s current functionality and permissions.
         </p>
 
+        <div className="top-actions">
+          <a href="/privacy-policy" className="action-link active-link">Privacy Policy</a>
+          <a href="/account-deletion-request" className="action-link">Account Deletion Request</a>
+        </div>
+
         <div className="hero-grid">
           <div className="hero-card">
             <span className="card-label">Last Updated</span>
